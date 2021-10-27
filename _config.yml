@@ -1,4 +1,4 @@
-title: Massimiliano Russo 
+title: Max Russo 
 description: "my web page is based on http://jekyllthemes.org/themes/much-worse"
 sourcecode: ""
 
@@ -10,7 +10,7 @@ url: "http://rmassimiliano.github.io"     # the base hostname & protocol for you
 author:
     name: Massimiliano Russo
     facebook:
-    scholar:
+    scholar: https://scholar.google.it/citations?user=FwQz-70AAAAJ&hl=en
 
 # Build settings
 markdown: kramdown
