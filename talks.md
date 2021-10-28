@@ -4,7 +4,7 @@ permalink: "/talks/"
 author_profile: true
 ---
 
-## Organized Sessions
+## Organized sessions
 
 <span style = "color:rgb(0,35,156)">**Advances in Bayesian methods for medical data** </span>, Bayesian Young Statisticians Meeting: Online, (BAYSM:O 2020).
 
@@ -58,7 +58,7 @@ Invited in the topic contributed session: <span style = "color:rgb(0,35,156)">**
 
 
 
-## Outreach & Events
+## Outreach & events
 <span style = "color:rgb(0,35,156)">**Regulatory Science Student & Faculty Mixer** </span> (October 2020): Online meeting with graduate and prospective students to discuss research opportunities.
 
 <span style = "color:rgb(0,35,156)">**Regsci Forum: Fellows Showcase. What the Harvard-MIT Center for Regulatory Science actually does? Wonder no more!** </span> (January 2020): Research presentation to describe the world of regulatory science to students.
