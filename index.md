@@ -62,7 +62,7 @@ Advisor: [Luca Greco](https://sites.google.com/site/lucagrecohomepage)
 
 * Young researcher travel award ISBA2018,  Edinburgh, United Kingdom.
 
-* Travel support for COBAL V (2017), Guanajuato, Mexico
+* Travel support for COBAL V (2017), Guanajuato, Mexico.
 
 * Young researcher travel award ISBA2016, Sardinia, Italy.
 

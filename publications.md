@@ -17,9 +17,16 @@ Journal of Computational and Graphical Statistics, in press.
 [Multivariate mixed membership modeling: Inferring domain-specific risk profiles](https://www.e-publications.org/ims/submission/AOAS/user/submissionFile/46882?confirm=c2962b80). The Annals of Applied Statistics, in press. 
 
 
-Aliverti, E., Paganin, S., Rigon, T. and <span style="color:rgb(0,35,156)">**Russo, M.**</span> (2019+). A discussion on: "[Latent nested nonparametric priors](https://projecteuclid.org/euclid.ba/1561601089)" by Camerlenghi, F., Dunson, D.B., Lijoi, A., Prünster, I. and Rodriguez, A. in Bayesian Analysis 14(4): 1303--1356.
+Rigon, T., Aliverti, E., <span style = "color:rgb(0,35,156)">**Russo, M.** </span>, and Scarpa, B, (2021) A discussion on: [Centered partition processes: Informative priors for clustering](https://projecteuclid.org/journals/bayesian-analysis/volume-16/issue-1/Centered-Partition-Processes-Informative-Priors-for-Clustering-with-Discussion/10.1214/20-BA1197.full?tab=ArticleLinkCited) by Paganin, S., Herring, A. H., Olshan, A. F. and Dunson, D. B. Bayesian Analysis 16(1): 301-370. 
 
 
+Ottaviano, G., Nardello, E., Pendolino, A. L., Pozza, M. D., <span style = "color:rgb(0,35,156)">**Russo, M.** </span>, Savietto, E.  Peter, J. A., Ermolao, A., (2020). [Nasal Function Changes at High Altitude](https://journals.sagepub.com/doi/10.1177/1945892420916393), American Journal of Rhinology & Allergy, 34(5) 618-625.  
+
+Aliverti, E., Paganin, S., Rigon, T. and <span style="color:rgb(0,35,156)">**Russo, M.**</span> (2019). A discussion on: "[Latent nested nonparametric priors](https://projecteuclid.org/euclid.ba/1561601089)" by Camerlenghi, F., Dunson, D.B., Lijoi, A., Prünster, I. and Rodriguez, A. in Bayesian Analysis 14(4): 1303--1356.
+
+
+
+Ottaviano, G., Pendolino, A. L., Nardello, E., Maculan, P., Martini, A., <span style = "color:rgb(0,35,156)">**Russo, M.** </span>, and Lund, V. J (2019). [Peak nasal inspiratory flow measurement and visual analogue scale in a large adult population](https://onlinelibrary.wiley.com/doi/abs/10.1111/coa.13329), Clinical Otolaryngology; 44: 541--548.
 
 <span style="color:rgb(0,35,156)"> **Russo, M**.</span>, Durante, D. and Scarpa B. (2018). [Bayesian Inference on Group Differences in Multivariate Categorical Data](https://www.sciencedirect.com/science/article/pii/S0167947318300999), Computational Statistics & Data Analysis, 126, 136--149
 
