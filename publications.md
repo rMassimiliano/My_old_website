@@ -3,7 +3,7 @@ title: "List of publications"
 permalink: /publications/
 author_profile: true
 ---
-## Papers published in refeed journals
+## Papers published in referred journals
 
 <span style="color:rgb(0,35,156)">**Russo, M.**</span>,  Ventz, S., Wang, V.,  Trippa, L. (2021).
 [Inference in response-adaptive clinical trials when the enrolled population varies over time](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13582). Biometrics, in press. 
