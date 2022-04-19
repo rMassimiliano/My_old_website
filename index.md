@@ -12,17 +12,17 @@ permalink: /
 <img src="images/profile.jpg" alt="drawing" width="180" align = 'right'/>
 
 
-Welcome to my website! My name is <span style="color:rgb(0,35,156)">  **Massimiliano Russo** </span> and I am a postdoctoral research fellow in Statistics  at <span style="color:rgb(0,35,156)"> **Harvard Medical School** </span> in the [Harvard Program in Therapeutic Science (HiTS)](http://hits.harvard.edu/) within the Harvard-MIT Center for Regulatory Science (CRS). I am also part of Prof. [Lorenzo Trippa](http://bcb.dfci.harvard.edu/~ltrippa/)'s group at the <span style="color:rgb(0,35,156)"> **Dana-Farber Cancer Institute (DFCI)** </span> in the [Department of Data Sciences](https://www.dana-farber.org/research/departments-centers-and-labs/departments-and-centers/department-of-data-sciences/).
+Welcome to my website! My name is <span style="color:rgb(0,35,156)">  **Massimiliano Russo**</span>. I am a Junior Faculty at <span style="color:rgb(0,35,156)">  **Harvard University**</span>, within the [Division of Pharmacoepidemiology and Pharmacoeconomics](https://www.drugepi.org) of the Brigham and Women's Hospital & Harvard Medical School.
 
+Before I was a postdoctoral research fellow in Statistics
+within the [Harvard-MIT Center for Regulatory Science (CRS)](https://hmcrs.org) at <span style="color:rgb(0,35,156)"> **Harvard Medical School**</span>. I have been also part of Prof. [Lorenzo Trippa](http://bcb.dfci.harvard.edu/~ltrippa/)'s group at the <span style="color:rgb(0,35,156)"> **Dana-Farber Cancer Institute (DFCI)** </span> in the [Department of Data Sciences](https://www.dana-farber.org/research/departments-centers-and-labs/departments-and-centers/department-of-data-sciences/), and collaborated with Prof. [Jeff Miller](https://jwmi.github.io) of the department of Biostatistics, Harvard School of Public Health. 
 
-
-Before I was a PhD student in Statistics at the University of Padova (Italy), where I worked on Bayesian methods for tensor factorization models under the supervision Prof. [Bruno Scarpa](http://homes.stat.unipd.it/bruno/). During my PhD I spent about one year and an half as a visiting research scholar at Duke University, NC, USA working under the supervision of Prof. [David B. Dunson](https://stat.duke.edu/people/david-b-dunson).
+I obtained my PhD in Statistics at the University of Padova (Italy), where I worked on Bayesian methods for tensor factorization models under the supervision Prof. [Bruno Scarpa](http://homes.stat.unipd.it/bruno/). During my PhD I spent about one year and an half as a visiting research scholar at Duke University, NC, USA working under the supervision of Prof. [David B. Dunson](https://stat.duke.edu/people/david-b-dunson).
 
 My main research interests include: Bayesian statistics; Tensor factorization for categorical variables; Hierarchical models; Decision theory; 
 Analysis and design of clinical trials; Machine learning; and, Computational statistics.
 
 In this website you can find my [curriculum vitae](files/RussoCV.pdf), the list of my [publications](publications) and some [statistical material](material) (slides, tutorials etc.).  
-
 
 I have also a [GitHub](https://github.com/rMassimiliano) profile.
 
