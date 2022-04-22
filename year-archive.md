@@ -28,4 +28,4 @@ author_profile: true
 <span style ="color:rgb(0,35,156)"> **Poster** </span>: [Bayesian Inference on Group Differences in Multivariate Categorical
 Data](files/ISBA.pdf). ISBA2016, Sardinia, Italy, June 16th, 2016 (updated).
 
-[//]: # (<span style="color:rgb(0,35,156)"> **Slides** </span>: [ggplot2 & data visualization](files/ggplot2_lesson.pdf))
+<!-- span style="color:rgb(0,35,156)"> **Slides** </span>: [ggplot2 & data visualization](files/ggplot2_lesson.pdf) -->
