@@ -14,7 +14,8 @@ Journal of Computational and Graphical Statistics, in press.
 
  
 <span style="color:rgb(0,35,156)">**Russo, M.**</span>, Singer, B. H. \& Dunson, D. B. (2021).
-[Multivariate mixed membership modeling: Inferring domain-specific risk profiles](https://www.e-publications.org/ims/submission/AOAS/user/submissionFile/46882?confirm=c2962b80). The Annals of Applied Statistics, in press. 
+[Multivariate mixed membership modeling: Inferring domain-specific risk profiles](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-16/issue-1/Multivariate-mixed-membership-modeling-Inferring-domain-specific-risk-profiles/10.1214/21-AOAS1496.short?tab=ArticleLink). The Annals of Applied Statistics, 16(1): 391 - 370. 
+
 
 
 Rigon, T., Aliverti, E., <span style = "color:rgb(0,35,156)">**Russo, M.** </span>, and Scarpa, B, (2021) A discussion on: [Centered partition processes: Informative priors for clustering](https://projecteuclid.org/journals/bayesian-analysis/volume-16/issue-1/Centered-Partition-Processes-Informative-Priors-for-Clustering-with-Discussion/10.1214/20-BA1197.full?tab=ArticleLinkCited) by Paganin, S., Herring, A. H., Olshan, A. F. and Dunson, D. B. Bayesian Analysis 16(1): 301-370. 
@@ -53,7 +54,7 @@ Lauffenburger, J. C., K. Choudhry, N. K., <span style="color:rgb(0,35,156)"> **R
 
 Aliverti, E. and <span style="color:rgb(0,35,156)"> **Russo, M**.</span> [Dynamic modeling of the Italians’ attitude towards Covid-19](https://arxiv.org/pdf/2108.01194.pdf), arXiv preprint, arXiv:2108.01194. 
 
-
+<span style="color:rgb(0,35,156)"> **Russo, M**.</span>, Paganin S., and Scarpa~B. Modeling students’ ability: a generalized partial credit model for network dependent latent traits.
 
 
 
