@@ -5,16 +5,23 @@ author_profile: true
 ---
 ## Papers published in referred journals
 
-<span style="color:rgb(0,35,156)">**Russo, M.**</span>,  Ventz, S., Wang, V.,  Trippa, L. (2021).
-[Inference in response-adaptive clinical trials when the enrolled population varies over time](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13582). Biometrics, in press. 
+Aliverti, E. and <span style="color:rgb(0,35,156)"> **Russo, M**.</span> [Dynamic modeling of the Italians’ attitude towards Covid-19](https://arxiv.org/pdf/2108.01194.pdf), Statistics in Medicine, in press, DOI:10.1002/sim.9560
 
+
+
+Lauffenburger, J. C., K. Choudhry, N. K., <span style="color:rgb(0,35,156)"> **Russo, M**.</span>,  Glynn, R. J., Ventz, S., Trippa, L.  Leveraging adaptive trials to evaluate interventions in health services research.
+BMJ Medicine 2022;1:e000158. doi: 10.1136/bmjmed-2022-000158 
+
+
+<span style="color:rgb(0,35,156)">**Russo, M.**</span>,  Ventz, S., Wang, V.,  Trippa, L. (2021).
+[Inference in response-adaptive clinical trials when the enrolled population varies over time](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13582). Biometrics, 00 1 - 13. https://doi.org/10.1111/biom.13582
 
 Aliverti, E. and <span style="color:rgb(0,35,156)">**Russo, M.**</span> (2021). [Stratified stochastic variational inference for high-dimensional network factor model](10.1080/10618600.2021.1984929)
-Journal of Computational and Graphical Statistics, in press.
+Journal of Computational and Graphical Statistics, 31:2, 502-511, DOI: 10.1080/10618600.2021.1984929
 
  
 <span style="color:rgb(0,35,156)">**Russo, M.**</span>, Singer, B. H. \& Dunson, D. B. (2021).
-[Multivariate mixed membership modeling: Inferring domain-specific risk profiles](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-16/issue-1/Multivariate-mixed-membership-modeling-Inferring-domain-specific-risk-profiles/10.1214/21-AOAS1496.short?tab=ArticleLink). The Annals of Applied Statistics, 16(1): 391 - 370. 
+[Multivariate mixed membership modeling: Inferring domain-specific risk profiles](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-16/issue-1/Multivariate-mixed-membership-modeling-Inferring-domain-specific-risk-profiles/10.1214/21-AOAS1496.short?tab=ArticleLink). The Annals of Applied Statistics, 16(1): 391 - 370, DOI: 10.1214/21-AOAS1496 
 
 
 
@@ -50,9 +57,7 @@ Cabassi, A., Casa, A., Fontana, M., <span style="color:rgb(0,35,156)"> **Russo, 
 
 
 ## Under review
-Lauffenburger, J. C., K. Choudhry, N. K., <span style="color:rgb(0,35,156)"> **Russo, M**.</span>,  Glynn, R. J., Ventz, S., Trippa, L.  Leveraging adaptive trials to evaluate interventions in health services research.
 
-Aliverti, E. and <span style="color:rgb(0,35,156)"> **Russo, M**.</span> [Dynamic modeling of the Italians’ attitude towards Covid-19](https://arxiv.org/pdf/2108.01194.pdf), arXiv preprint, arXiv:2108.01194. 
 
 <span style="color:rgb(0,35,156)"> **Russo, M**.</span>, Paganin S., and Scarpa~B. Modeling students’ ability: a generalized partial credit model for network dependent latent traits.
 
